@@ -1,0 +1,2 @@
+ITEM_PREFIX = 'i'
+STORE_PREFIX = 's'
